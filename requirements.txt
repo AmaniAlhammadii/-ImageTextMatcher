@@ -1,0 +1,6 @@
+transformers
+gradio
+torch
+gtts
+SpeechRecognition
+Pillow
