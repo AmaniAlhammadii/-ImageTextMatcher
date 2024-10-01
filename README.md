@@ -56,6 +56,7 @@ Execute the Python script. The Gradio interface will automatically launch in you
 ## Links
 - [[Colab](https://colab.research.google.com/drive/1UnAr6mH05vQ8GiB8uQTbBep4_r6gh2Kh?authuser=0#scrollTo=GWfR6jw8ZV4k)](#)
 - [Hugging Face](https://huggingface.co/spaces/amaniM/ImageTextMatcher))
+- [Video and presentation]([https://huggingface.co/spaces/amaniM/ImageTextMatcher])
 
 
 ## Authors
