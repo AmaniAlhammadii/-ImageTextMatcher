@@ -56,7 +56,7 @@ Execute the Python script. The Gradio interface will automatically launch in you
 ## Links
 - [[Hugging Face](https://colab.research.google.com/drive/1UnAr6mH05vQ8GiB8uQTbBep4_r6gh2Kh?authuser=0#scrollTo=GWfR6jw8ZV4k)](#)
 - [[Colab](https://colab.research.google.com/drive/1UnAr6mH05vQ8GiB8uQTbBep4_r6gh2Kh?authuser=0#scrollTo=GWfR6jw8ZV4k)](#)
-- [Watch the video](#)
+
 
 ## Authors
 - [Amani Alhammadi]
